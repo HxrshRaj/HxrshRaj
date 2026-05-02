@@ -1,10 +1,10 @@
 <div align="center">
   
-# 👋 Hi, I'm Harsh Raj
+# Harsh Raj
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Building+Scalable+Backend+Systems;Architecting+AI+%26+Cloud+Solutions;C%2B%2B+%7C+Java+%7C+Python)](https://git.io/typing-svg)
 
-**Pre-Final Year CSE @ SRM University AP |  (9.02 CGPA)**
+**Pre-Final Year CSE @ SRM University AP | Top 5% Cohort (9.02 CGPA)**
 
 <p align="center">
   <a href="mailto:harsh_raj@srmap.edu.in">
@@ -18,41 +18,35 @@
   </a>
 </p>
 
----
-
 </div>
 
-### 👨‍💻 About Me
-
-I am a passionate Software Engineering student specializing in **Backend Development, Cloud Computing, and Applied AI**. I love building systems that solve real-world problems—whether that's a distributed financial transaction engine, a sub-millisecond AI search pipeline, or a multi-threaded chat server. 
-
-Outside of the IDE, you can usually find me **strumming my guitar 🎸** or **hitting boundaries on the cricket field 🏏**. I believe the discipline of sports and the creativity of music make me a better, more adaptable engineer.
-
 ---
 
-### 🛠️ Technical Arsenal
+### About
 
-**Core Languages:**  
+I am a Software Engineering student specializing in Backend Development, Cloud Computing, and Applied AI. My technical focus is on building robust systems that solve complex problems—ranging from distributed financial transaction engines to high-performance AI search pipelines and multi-threaded servers.
+
+Outside of software engineering, my time is divided between playing the guitar and playing cricket. I believe the discipline required for sports and the creative problem-solving found in music fundamentally shape my approach to system architecture.
+
+### Technical Arsenal
+
+**Core Languages**  
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/Advanced_SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Backend & Architecture:**  
+**Backend & Architecture**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**AI, Data & Cloud:**  
+**Cloud, Data & AI**  
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 
----
+### Credentials & Highlights
 
-### 🏆 Credentials & Highlights
-
-*   ☕ **Oracle Certified Professional** – Java SE 17 Developer
-*   ☁️ **Google Cloud Certified** – AI & Machine Learning Skill Badges
-*   💻 **Problem Solver** – 200+ DSA & Optimization Problems Solved (LeetCode/CodeChef)
-*   🔬 **Research** – Optimized dense Optical Flow algorithms using C++ and OpenCV for scalable computer vision pipelines.
+* **Oracle Certified Professional:** Java SE 17 Developer
+* **Google Cloud Certified:** AI & Machine Learning Skill Badges
+* **Algorithms & Data Structures:** 200+ Optimization Problems Solved (LeetCode/CodeChef)
+* **Applied Research:** Optimized dense Optical Flow algorithms using C++ and OpenCV for scalable computer vision pipelines
 
 ---
-
-### 📊 Engineering Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HxrshRaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=10B981" alt="Harsh's GitHub Stats" width="48%" />
