@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Building+Scalable+Backend+Systems;Architecting+AI+%26+Cloud+Solutions;C%2B%2B+%7C+Java+%7C+Python)](https://git.io/typing-svg)
 
-**Pre-Final Year CSE @ SRM University AP | Top 5% Cohort (9.02 CGPA)**
+**Pre-Final Year CSE @ SRM University AP |  (9.02 CGPA)**
 
 <p align="center">
   <a href="mailto:harsh_raj@srmap.edu.in">
