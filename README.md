@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,50:00D9FF,100:00FFB2&text=Harsh%20Raj&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=40"/>
@@ -16,12 +15,12 @@
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/harsh-raj-7a26ab314">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
+<a href="https://portfolio-seven-omega-ao8uvn4m7o.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FFB2"/>
 </a>
 
-<a href="https://hxrshraj.github.io">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FFB2"/>
+<a href="https://www.linkedin.com/in/harsh-raj-7a26ab314">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
 </a>
 
 </div>
@@ -34,7 +33,7 @@ I am a Computer Science student passionate about building end-to-end intelligent
 
 My work focuses on designing scalable applications, deploying machine learning systems, developing AI-powered solutions, and engineering software that solves real-world problems.
 
-My core interests include:
+### Interests
 
 - Artificial Intelligence & Machine Learning
 - Generative AI & Agentic AI Systems
@@ -46,7 +45,32 @@ My core interests include:
 - DevOps & Automation
 - Computer Vision
 
-Outside technology, I enjoy playing cricket, guitar, reading, exploring forts, and following geopolitics.
+Outside technology, I enjoy cricket, guitar, reading, geopolitics, and fort exploration.
+
+---
+
+## Featured Projects
+
+### 🚀 DocuMind – AI-Powered Document Intelligence Platform
+- Intelligent document analysis and Q&A system
+- Machine Learning-powered customer segmentation
+- Interactive visual analytics dashboard
+- Technologies: Python, Machine Learning, Streamlit, Pandas
+
+### 🤖 AI & Machine Learning Projects
+- Predictive and classification models
+- Feature engineering and model optimization
+- End-to-end ML workflows and experimentation
+
+### 👁️ Computer Vision Research
+- Optimized Dense Optical Flow algorithms using C++ and OpenCV
+- Focused on scalable and high-performance vision pipelines
+- Research-oriented implementation and analysis
+
+### 🌐 Personal Portfolio Website
+- Fully responsive developer portfolio
+- Modern UI and project showcase
+- Live Demo: https://portfolio-seven-omega-ao8uvn4m7o.vercel.app
 
 ---
 
@@ -64,8 +88,9 @@ Outside technology, I enjoy playing cricket, guitar, reading, exploring forts, a
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 ### Backend Development
 
@@ -73,7 +98,7 @@ Outside technology, I enjoy playing cricket, guitar, reading, exploring forts, a
 <img src="https://skillicons.dev/icons?i=spring,fastapi" />
 </p>
 
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+<img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 
 ### Cloud, DevOps & Infrastructure
 
@@ -95,7 +120,7 @@ Outside technology, I enjoy playing cricket, guitar, reading, exploring forts, a
 
 🏆 Google Cloud AI & Machine Learning Skill Badges
 
-🏆 Strong Foundation in Data Structures & Algorithms
+🏆 200+ Data Structures & Algorithms Problems Solved
 
 🏆 Research Experience in Computer Vision using C++ and OpenCV
 
@@ -182,4 +207,3 @@ Outside technology, I enjoy playing cricket, guitar, reading, exploring forts, a
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:00D9FF,100:00FFB2"/>
 
 </div>
-
