@@ -1,60 +1,185 @@
+```markdown
 <div align="center">
-  
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,50:00D9FF,100:00FFB2&text=Harsh%20Raj&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=40"/>
+
 # Harsh Raj
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Building+Scalable+Backend+Systems;Architecting+AI+%26+Cloud+Solutions;C%2B%2B+%7C+Java+%7C+Python)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Generative+AI+Developer;MLOps+%26+Cloud+Enthusiast;Software+Engineer;Building+Intelligent+Systems+at+Scale"/>
 
-**Pre-Final Year CSE @ SRM University AP |  (9.02 CGPA)**
+### Pre-Final Year Computer Science Student @ SRM University AP
+### CGPA: 8.93
 
-<p align="center">
-  <a href="mailto:harsh_raj@srmap.edu.in">
-    <img src="https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/harsh-raj-7a26ab314">
-    <img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn" />
-  </a>
-  <a href="https://hxrshraj.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-0B0F19?style=for-the-badge&logo=globe&logoColor=10B981" alt="Portfolio" />
-  </a>
-</p>
+<br>
+
+<a href="mailto:harsh_raj@srmap.edu.in">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harsh-raj-7a26ab314">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
+</a>
+
+<a href="https://hxrshraj.github.io">
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FFB2"/>
+</a>
 
 </div>
 
 ---
 
-### About
+## About Me
 
-I am a Software Engineering student specializing in Backend Development, Cloud Computing, and Applied AI. My technical focus is on building robust systems that solve complex problems—ranging from distributed financial transaction engines to high-performance AI search pipelines and multi-threaded servers.
+I am a Computer Science student passionate about building end-to-end intelligent systems that combine Artificial Intelligence, Machine Learning, Cloud Infrastructure, and Software Engineering.
 
-Outside of software engineering, my time is divided between playing the guitar and playing cricket. I believe the discipline required for sports and the creative problem-solving found in music fundamentally shape my approach to system architecture.
+My work focuses on designing scalable applications, deploying machine learning systems, developing AI-powered solutions, and engineering software that solves real-world problems.
 
-### Technical Arsenal
+My core interests include:
 
-**Core Languages**  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/Advanced_SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+- Artificial Intelligence & Machine Learning
+- Generative AI & Agentic AI Systems
+- MLOps & Model Deployment
+- Cloud Computing
+- Software Engineering
+- Backend Development
+- Distributed Systems
+- DevOps & Automation
+- Computer Vision
 
-**Backend & Architecture**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Cloud, Data & AI**  
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-
-### Credentials & Highlights
-
-* **Oracle Certified Professional:** Java SE 17 Developer
-* **Google Cloud Certified:** AI & Machine Learning Skill Badges
-* **Algorithms & Data Structures:** 200+ Optimization Problems Solved (LeetCode/CodeChef)
-* **Applied Research:** Optimized dense Optical Flow algorithms using C++ and OpenCV for scalable computer vision pipelines
+Outside technology, I enjoy playing cricket, guitar, reading, exploring forts, and following geopolitics.
 
 ---
 
+## Technical Arsenal
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,mysql" />
+</p>
+
+### AI / ML & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi" />
+</p>
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### Cloud, DevOps & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,docker,githubactions,git" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+</p>
+
+---
+
+## Certifications & Achievements
+
+🏆 Oracle Certified Professional — Java SE 17 Developer
+
+🏆 Google Cloud AI & Machine Learning Skill Badges
+
+🏆 Strong Foundation in Data Structures & Algorithms
+
+🏆 Research Experience in Computer Vision using C++ and OpenCV
+
+---
+
+## Areas of Expertise
+
+🧠 Artificial Intelligence & Machine Learning
+
+🤖 Generative AI & Agentic AI Systems
+
+☁️ Cloud Computing & MLOps
+
+⚙️ Software Engineering & System Design
+
+🚀 Backend Development
+
+📊 Data Structures & Algorithms
+
+👁️ Computer Vision
+
+🔄 DevOps & Automation
+
+---
+
+## Current Focus
+
+- Building AI-Powered Applications
+- Exploring Agentic AI Architectures
+- Developing Production-Ready MLOps Pipelines
+- Learning Cloud-Native System Design
+- Engineering Scalable Backend Systems
+
+---
+
+## GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HxrshRaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=10B981" alt="Harsh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HxrshRaj&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=10B981&currStreakLabel=3B82F6" alt="Harsh's GitHub Streak" width="48%" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HxrshRaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HxrshRaj&theme=tokyonight&hide_border=true&background=0D1117"/>
+
 </div>
 
 <br>
 
 <div align="center">
-  <i>"Optimizing for sub-millisecond latency, on and off the pitch."</i>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HxrshRaj&theme=tokyo-night&hide_border=true"/>
+
 </div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HxrshRaj&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+## Beyond Code
+
+🏏 Cricket
+
+🎸 Guitar
+
+📚 Reading
+
+🏰 Fort Exploration
+
+🌍 Geopolitics
+
+---
+
+<div align="center">
+
+### Transforming AI Research into Scalable Real-World Software
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:00D9FF,100:00FFB2"/>
+
+</div>
+```
