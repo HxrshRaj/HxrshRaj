@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,50:00D9FF,100:00FFB2&text=Harsh%20Raj&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=40"/>
@@ -182,4 +182,4 @@ Outside technology, I enjoy playing cricket, guitar, reading, exploring forts, a
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:00D9FF,100:00FFB2"/>
 
 </div>
-```
+
