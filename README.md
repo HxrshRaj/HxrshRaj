@@ -1,26 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,50:00D9FF,100:00FFB2&text=Harsh%20Raj&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,35:7F5AF0,70:2CB1FC,100:00F5D4&text=Harsh%20Raj&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Agentic%20AI%20%26%20Distributed%20Systems&descAlignY=58&descSize=20&descColor=E0E0E0"/>
 
-# Harsh Raj
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=24&pause=1200&color=2CB1FC&center=true&vCenter=true&width=900&lines=I+don't+ship+until+I've+broken+it+myself+first.;Agentic+AI+%2B+Distributed+Systems+%2B+Low-Latency+Engineering.;15%2B+real+projects.+Every+claim+independently+verified."/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Agentic+AI+%26+LLM+Systems+Builder;Distributed+Systems+Engineer;Full-Stack+Developer;Building+Real+Systems%2C+Not+Demos"/>
-
-### Final Year Computer Science Student @ SRM University AP
-### CGPA: 8.93/10.0
+### Final Year Computer Science Student @ SRM University AP · CGPA: 8.93/10.0
 
 <br>
 
 <a href="mailto:hraj15709@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=7F5AF0"/>
 </a>
 
 <a href="https://hxrshraj.github.io">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FFB2"/>
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F5D4"/>
 </a>
 
 <a href="https://www.linkedin.com/in/harsh-raj-7a26ab314">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2CB1FC"/>
 </a>
 
 </div>
@@ -155,9 +152,9 @@ A full-stack application (React, Node.js, Express) with a 4-endpoint REST API, e
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic_AI-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&labelColor=0D1117&color=7F5AF0"/>
+<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&labelColor=0D1117&color=2CB1FC"/>
+<img src="https://img.shields.io/badge/Agentic_AI-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5D4"/>
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 ### Backend & Distributed Systems
@@ -166,8 +163,8 @@ A full-stack application (React, Node.js, Express) with a 4-endpoint REST API, e
 <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,dotnet" />
 </p>
 
-<img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=2CB1FC"/>
+<img src="https://img.shields.io/badge/Apache_Spark-0D1117?style=for-the-badge&logo=apachespark&logoColor=00F5D4"/>
 
 ### Frontend
 
@@ -238,9 +235,9 @@ A full-stack application (React, Node.js, Express) with a 4-endpoint REST API, e
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HxrshRaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HxrshRaj&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&icon_color=2CB1FC&title_color=7F5AF0&text_color=E0E0E0"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HxrshRaj&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HxrshRaj&theme=synthwave&hide_border=true&background=0D1117&ring=2CB1FC&fire=7F5AF0&currStreakLabel=00F5D4"/>
 
 </div>
 
@@ -248,7 +245,7 @@ A full-stack application (React, Node.js, Express) with a 4-endpoint REST API, e
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HxrshRaj&theme=tokyo-night&hide_border=true"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HxrshRaj&theme=react-dark&hide_border=true&bg_color=0D1117&color=2CB1FC&line=7F5AF0&point=00F5D4"/>
 
 </div>
 
@@ -258,7 +255,7 @@ A full-stack application (React, Node.js, Express) with a 4-endpoint REST API, e
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HxrshRaj&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=HxrshRaj&theme=discord&no-frame=true&row=1&column=7&margin-w=8"/>
 
 </div>
 
@@ -272,8 +269,8 @@ A full-stack application (React, Node.js, Express) with a 4-endpoint REST API, e
 
 <div align="center">
 
-### Build it. Break it yourself first. Then ship it.
+### I build it. I try to break it myself. Then, and only then, I ship it.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:00D9FF,100:00FFB2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0D1117,35:7F5AF0,70:2CB1FC,100:00F5D4"/>
 
 </div>
