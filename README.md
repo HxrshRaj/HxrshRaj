@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Generative+AI+Developer;MLOps+%26+Cloud+Enthusiast;Software+Engineer;Building+Intelligent+Systems+at+Scale"/>
 
-### Pre-Final Year Computer Science Student @ SRM University AP
+### Final Year Computer Science Student @ SRM University AP
 ### CGPA: 8.93
 
 <br>
