@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,35:7F5AF0,70:2CB1FC,100:00F5D4&text=Harsh%20Raj&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Agentic%20AI%20%26%20Distributed%20Systems&descAlignY=58&descSize=20&descColor=E0E0E0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,35:7F5AF0,70:2CB1FC,100:00F5D4&text=Harsh%20Raj&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40"/>
+
+### Software Engineer · Agentic AI & Distributed Systems
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=24&pause=1200&color=2CB1FC&center=true&vCenter=true&width=900&lines=I+don't+ship+until+I've+broken+it+myself+first.;Agentic+AI+%2B+Distributed+Systems+%2B+Low-Latency+Engineering.;15%2B+real+projects.+Every+claim+independently+verified."/>
 
